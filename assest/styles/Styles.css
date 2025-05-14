@@ -1,0 +1,14 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+  }
+  
+  .dark-mode {
+    background-color: rgb(43, 43, 43);
+    color: white;
+  }
+
+  .light-mode{
+    background-color: white;
+  }
