@@ -7,7 +7,7 @@
     "build": "tailwindcss -i ./src/input.css -o ./dist/output.css",
     "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
-  "keywords": ["todo", "tailwind", "javascript"],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
